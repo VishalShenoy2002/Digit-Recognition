@@ -18,12 +18,11 @@ Please Follow the following steps to run the program without error:
 pip install tensorflow numpy opencv-python mathplotlib os
 ```
 
-2. Once all the Libraries or Modules are Installed run the following command.
+2. Once all the Libraries or Modules are Installed run the following command. This will train and creae the model and will save it
 ```
 python .\model.py
 ```
 
-This will train and creae the model.
 
 3. Once the Model is created, run the main program.
 ```
