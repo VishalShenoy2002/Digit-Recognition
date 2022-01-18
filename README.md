@@ -15,7 +15,7 @@ The Program is written using the Python Programming Language. It uses the follow
 Please Follow the following steps to run the program without error:
 1. First Check if all the modules or libraries are installed. If not run the following command
 ``` 
-pip install tensorflow numpy opencv-python matplotlib os
+pip install tensorflow numpy opencv-python matplotlib
 ```
 
 2. Once all the Libraries or Modules are Installed run the following command. This will train and creae the model and will save it
