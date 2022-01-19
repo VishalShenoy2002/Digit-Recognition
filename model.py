@@ -5,6 +5,8 @@ from tensorflow.keras import datasets
 from tensorflow.keras.layers import Flatten,Dense
 from tensorflow.keras import Sequential
 
+from matplotlib import pyplot as plt
+
 # Calling the MNIST Data Set which contains Pictures of Hand written digits
 mnist=datasets.mnist
 
