@@ -44,7 +44,8 @@ The Model has 3 Layers. They are as follows:
 The Summary Table is given below
 
 
-```Model: "sequential"
+```
+Model: "sequential"
 _________________________________________________________________
  Layer (type)                Output Shape              Param #
 =================================================================
