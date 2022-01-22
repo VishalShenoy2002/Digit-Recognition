@@ -62,3 +62,6 @@ Non-trainable params: 0
 _________________________________________________________________
 ```
 
+## Suggestion
+
+If you are running a device with 32 bit architecture or a device with less RAM you can use the Google Colab or [Google Colabtory](https://colab.research.google.com/?utm_source=scs-index) because while training the model, it will consume over 80% of you CPU and RAM.
